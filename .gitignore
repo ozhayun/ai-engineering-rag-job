@@ -50,3 +50,6 @@ jobs_db/
 
 # Semgrep analysis
 static_analysis_semgrep_*/
+
+# Claude instructions (personal, not shared)
+CLAUDE.md
